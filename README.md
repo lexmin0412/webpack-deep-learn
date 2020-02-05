@@ -1,2 +1,2 @@
 # webpack-learn
-webpack学习笔记
+webpack深入学习笔记
