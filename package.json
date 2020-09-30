@@ -1,0 +1,24 @@
+{
+  "name": "webpack-deep-learn",
+  "version": "1.0.0",
+  "description": "webpack深入学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cathe-zhang/webpack-deep-learn.git"
+  },
+  "keywords": [],
+  "author": "cathe-zhang <zhangle_web@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cathe-zhang/webpack-deep-learn/issues"
+  },
+  "homepage": "https://github.com/cathe-zhang/webpack-deep-learn#readme",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
